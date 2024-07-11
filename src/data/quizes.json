@@ -1,0 +1,1542 @@
+[
+  {
+    "id": 1,
+    "img": "https://logoman.ca/wp-content/uploads/2018/01/Slider-Banner-Programming-Image-.jpg",
+    "description": "This category covers various fundamental and advanced topics in programming, including HTML, JavaScript, and other web development technologies.",
+    "title": "Programming",
+    "questions": [
+      {
+        "id": "1",
+        "text": "What does HTML stand for?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Hypertext Markup Language",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Cascading Stylesheet",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Javascript",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Bootstrap",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "text": "Which programming language is known as the language of the web?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Python",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "JavaScript",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Java",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "C++",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "text": "Which tag is used to create a hyperlink in HTML?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "<a>",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "<link>",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "<href>",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "<url>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "text": "Which of the following is not a JavaScript framework?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "React",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Angular",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Vue",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Django",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "text": "What is the correct syntax to declare a JavaScript variable?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "variable myVar;",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "v myVar;",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "var myVar;",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "declare myVar;",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "text": "Which HTML element is used for the largest heading?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "<h1>",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "<heading>",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "<h6>",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "<head>",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "text": "Which property is used to change the background color in CSS?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "color",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "backgroundColor",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "bgColor",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "background-color",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "text": "Which method can be used to round a number to the nearest integer in JavaScript?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Math.floor()",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Math.round()",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Math.ceil()",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Math.random()",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "text": "Which symbol is used for comments in JavaScript?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "//",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "/* */",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "<!-- -->",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "#",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "text": "Which tag is used to define an unordered list in HTML?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "<ol>",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "<ul>",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "<li>",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "<list>",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://static.vecteezy.com/system/resources/thumbnails/007/227/554/small/mathematics-word-concepts-banner-presentation-website-isolated-lettering-typography-idea-with-linear-icons-algebra-geometry-statistics-basic-maths-outline-illustration-vector.jpg",
+    "description": "This category includes questions that cover various mathematical concepts and principles, ranging from basic arithmetic to advanced calculus.",
+    "title": "Mathematics",
+    "questions": [
+      {
+        "id": "1",
+        "text": "What is the value of Pi (π) rounded to two decimal places?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3.14",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2.14",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "4.14",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "3.41",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "text": "What is the solution to the equation 2x + 3 = 7?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "x = 1",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "x = 2",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "x = 3",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "x = 4",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "text": "What is the sum of the angles in a triangle?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "90 degrees",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "180 degrees",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "270 degrees",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "360 degrees",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "text": "What is the derivative of sin(x)?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "cos(x)",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "-sin(x)",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "-cos(x)",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "sin(x)",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "text": "What is the formula for the area of a circle?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "πr^2",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2πr",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "πr",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "πr^3",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "text": "What is the next prime number after 7?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "9",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "11",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "13",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "10",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "text": "What is 7 factorial (7!)?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "720",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "5040",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "40320",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "120",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "text": "What is the square root of 144?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "11",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "12",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "13",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "14",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "text": "What is the value of the mathematical constant e?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "2.72",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "3.14",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "2.71",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "1.61",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "text": "What is the solution to the equation x^2 - 4 = 0?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "x = 2",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "x = -2",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "x = 2 or x = -2",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "x = 0",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "https://study.com/cimages/videopreview/p3c2j8y73a.jpg",
+    "description": "This category explores various geographical facts and concepts, including countries, capitals, continents, and significant natural features.",
+    "title": "Geography",
+    "questions": [
+      {
+        "id": "1",
+        "text": "What is the capital of France?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Rome",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Madrid",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Paris",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Berlin",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "text": "Which continent is known as the 'Dark Continent'?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Asia",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Africa",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Europe",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Australia",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "text": "What is the longest river in the world?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Amazon River",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nile River",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Yangtze River",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Mississippi River",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "text": "Which country has the largest population?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "United States",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "India",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "China",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Brazil",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "text": "Which ocean is the largest?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Atlantic Ocean",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Indian Ocean",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Arctic Ocean",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Pacific Ocean",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "text": "Which is the smallest country in the world?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Monaco",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "San Marino",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Vatican City",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Liechtenstein",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "text": "What is the capital of Japan?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Seoul",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Beijing",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Tokyo",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Shanghai",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "text": "Which country is known as the 'Land of the Rising Sun'?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "China",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "India",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Japan",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Thailand",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "text": "What is the smallest continent by land area?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Europe",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Australia",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Antarctica",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "South America",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "text": "What is the capital of Australia?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Sydney",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Melbourne",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Canberra",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Brisbane",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59DwZvRmqpek5ViBkKewTer52hl5ESRbJbA&s",
+    "description": "This category covers various scientific concepts and principles, including physics, chemistry, biology, and astronomy.",
+    "title": "Science",
+    "questions": [
+      {
+        "id": "1",
+        "text": "What is the atomic number of carbon?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "5",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "12",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "6",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "14",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "text": "Which planet is known as the Red Planet?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Earth",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Mars",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Venus",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Jupiter",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "text": "What is the chemical symbol for gold?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Ag",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Au",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Pt",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Cu",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "text": "What is the process by which plants convert sunlight into food called?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Photosynthesis",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Respiration",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Pollination",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Transpiration",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "text": "What is the freezing point of water in Celsius?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "0°C",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "100°C",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "-273°C",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "25°C",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "text": "Which gas do plants absorb from the atmosphere and release oxygen?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Oxygen",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nitrogen",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Carbon dioxide",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Methane",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "text": "Which planet is closest to the Sun?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Earth",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Mars",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Mercury",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Venus",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "text": "What is the chemical formula for water?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "CO2",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "H2O",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "NaCl",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "O2",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "text": "What is the largest organ in the human body?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Heart",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Brain",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Skin",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Liver",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "text": "What is the largest planet in our solar system?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Earth",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Jupiter",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Saturn",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Mars",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "https://png.pngtree.com/template/20220427/ourmid/pngtree-knowledge-word-concepts-banner-image_1196412.jpg",
+    "description": "This category covers a wide range of general knowledge topics, including geography, famous personalities, languages, and more.",
+    "title": "General Knowledge",
+    "questions": [
+      {
+        "id": "1",
+        "text": "Which country is known as the Land of the Rising Sun?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "China",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Japan",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "India",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Korea",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "text": "Who wrote the novel '1984'?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "George Orwell",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Aldous Huxley",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "F. Scott Fitzgerald",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Ernest Hemingway",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "text": "Which is the longest river in the world?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Nile",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Amazon",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Yangtze",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Mississippi",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "text": "Who developed the theory of relativity?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Isaac Newton",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Albert Einstein",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Galileo Galilei",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Stephen Hawking",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "text": "Which is the largest ocean on Earth?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Atlantic Ocean",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Indian Ocean",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Pacific Ocean",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Arctic Ocean",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "text": "Which language is spoken in Brazil?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Spanish",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Portuguese",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "English",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "French",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "text": "Who invented the telephone?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Thomas Edison",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Alexander Graham Bell",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Nikola Tesla",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Guglielmo Marconi",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "text": "Who wrote the novel 'To Kill a Mockingbird'?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Mark Twain",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Harper Lee",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "John Steinbeck",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Ernest Hemingway",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "text": "Which mountain range is Mount Everest part of?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Andes",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Himalayas",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Alps",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Rockies",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "text": "Who painted the Sistine Chapel ceiling?",
+        "answer": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Raphael",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Leonardo da Vinci",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Michelangelo",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Donatello",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  }
+]
